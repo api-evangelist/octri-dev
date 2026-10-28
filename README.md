@@ -64,5 +64,29 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Octri is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://octri.dev
+Octri provides a platform that generates API documentation, SDKs in ten programming languages, a Monitoring and Control Plane (MCP) server, and tools for AI agents. Users can upload an OpenAPI spec and receive a full documentation site, automatically generated client libraries, real‑time SDK health monitoring, and an MCP that exposes the API as callable tools for agents. Octri also offers free utilities for spec conversion, auditing, and a marketplace of sample APIs. The service includes pricing plans for individuals and enterprises, a blog with product updates, and open source SDKs.
+
+**Areas:** Company · API · Documentation · SDK · Monitoring · MCP
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://octri.dev)
+- [Documentation](https://octri.dev/developers/guides/api-docs/overview)
+- [Getting started](https://octri.dev/developers/guides/api-docs/overview)
+- [API reference](https://octri.dev/developers/guides/api-docs/overview)
+- [Pricing](https://octri.dev/pricing)
+- [Support](https://octri.dev/support)
+- [Changelog](https://octri.dev/developers/guides/monitoring/releases)
+- [Blog](https://octri.dev/blog)
+- [Security](https://octri.dev/security)
+- [Terms of service](https://octri.dev/terms)
+- [Privacy policy](https://octri.dev/privacy)
+- [GitHub](https://github.com/octridev)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/octri-dev/](https://apis.io/providers/octri-dev/).
